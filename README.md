@@ -8,7 +8,7 @@ This repo contains **practical, confusion-free, real-world LinkedIn optimization
 
 ---
 
-## 📌 What This Repository Contains. 
+## 📌 What This Repository Contains.  
 
 This repository is a **complete, end-to-end LinkedIn growth & optimization guide**, covering:
 
